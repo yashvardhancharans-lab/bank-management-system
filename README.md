@@ -52,7 +52,7 @@ python oops_proj.py
 
 ---
 
-## ⚠️ Notes
+## ⚠️ Note
 
 * PIN is stored as a **string** to preserve leading zeros
 * Data is stored locally in `data.json`
